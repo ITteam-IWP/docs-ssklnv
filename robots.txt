@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-bz7haw.privatetalks.online/sitemap.xml
